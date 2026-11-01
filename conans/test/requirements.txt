@@ -5,5 +5,5 @@ nose-parameterized==0.2
 nose-exclude==0.1.9
 nose-htmloutput==0.5.0
 coverage==3.7.1
-pylint==1.4.3
+pylint==4.0.9
 ####################################################
